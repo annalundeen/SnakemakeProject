@@ -29,5 +29,8 @@ fasterq-dump --split-files SRR5660045 -O /SnakemakeProject/data
 Data in SnakemakeProject/data is test data, meaning a subset of data to run quickly. The final output should be PipelineReport.txt
 
 To run pipeline:
+
+cd SnakemakeProject
+
 snakemake --cores 4 
 
