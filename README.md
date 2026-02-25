@@ -8,6 +8,7 @@ conda install -c bioconda biopython snakemake kallisto bowtie2 spades blast-plus
 
 ## Installation
 git clone https://github.com/annalundeen/SnakemakeProject.git
+
 cd SnakemakeProject
 
 ## Running the Pipeline
